@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_blog_application/static/css/main.c8d7cff5.chunk.css",
+    "main.js": "/react_blog_application/static/js/main.4078a079.chunk.js",
+    "main.js.map": "/react_blog_application/static/js/main.4078a079.chunk.js.map",
+    "runtime-main.js": "/react_blog_application/static/js/runtime-main.c7482ccf.js",
+    "runtime-main.js.map": "/react_blog_application/static/js/runtime-main.c7482ccf.js.map",
+    "static/js/2.e3dd9994.chunk.js": "/react_blog_application/static/js/2.e3dd9994.chunk.js",
+    "static/js/2.e3dd9994.chunk.js.map": "/react_blog_application/static/js/2.e3dd9994.chunk.js.map",
+    "static/js/3.56cfae4c.chunk.js": "/react_blog_application/static/js/3.56cfae4c.chunk.js",
+    "static/js/3.56cfae4c.chunk.js.map": "/react_blog_application/static/js/3.56cfae4c.chunk.js.map",
+    "index.html": "/react_blog_application/index.html",
+    "static/css/main.c8d7cff5.chunk.css.map": "/react_blog_application/static/css/main.c8d7cff5.chunk.css.map",
+    "static/js/2.e3dd9994.chunk.js.LICENSE.txt": "/react_blog_application/static/js/2.e3dd9994.chunk.js.LICENSE.txt",
+    "static/media/space.8870eef7.png": "/react_blog_application/static/media/space.8870eef7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7482ccf.js",
+    "static/js/2.e3dd9994.chunk.js",
+    "static/css/main.c8d7cff5.chunk.css",
+    "static/js/main.4078a079.chunk.js"
+  ]
+}
